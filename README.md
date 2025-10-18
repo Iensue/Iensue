@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering** and **Systems Analysis and Development (ADS)** student. I also previously studied **Chemical Engineering**. , and I'm passionate about using technology to build creative and useful applications.
+I am a **Software Engineering** and **Systems Analysis and Development (ADS)** student. I also previously studied **Chemical Engineering**, and I'm passionate about using technology to build creative and useful applications.
 
 ---
 
